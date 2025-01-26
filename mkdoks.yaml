@@ -1,0 +1,20 @@
+site_name: Landing Page
+site_url: https://jbeteta-ies.github.io/jbeteta-ies.githib.io/
+theme:
+  name: material
+  features:
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - codehilite
+  - attr_list
+
