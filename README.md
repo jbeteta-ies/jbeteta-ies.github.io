@@ -3,7 +3,7 @@
 ## Datos personales
 
 !!! note info "Información"
-    | | | |
+    | - | - | - |
     | :---: | :--- | --- |
     | **Nombre** | Javier Beteta LLuna| |
     | **Correo** | jbeteta@ieseljust.com | |
