@@ -22,12 +22,9 @@ hide:
 
 <div class="grid" markdown>
 
-<<<<<<< HEAD
 !!! info
-=======
 !!! note "Enlace"
     [Bases de Datos](https://jbeteta-ies.github.io/BBDD){.md-button .md-button--primary}
->>>>>>> 2fe80a49d1845233fceff1e59165629e29ea5709
 
     | | | |
     | :---: | :--- | --- |
@@ -38,7 +35,7 @@ hide:
     | **Código** | 0484 | |
     | **Duración** | 160 horas | |
 
-!!! info "Enlace"
+!!! info "Enlace al proyecto"
     | |
     | :---: |
     | [Bases de Datos](https://jbeteta-ies.github.io/BBDD/){.md-button .md-button--primary} |
@@ -57,17 +54,10 @@ hide:
     | **Código** | IFCT0211 | |
     | **Duración** | 630 horas | |
 
-!!! info "Enlace"
+!!! info "Enlace al proyecto"
     | |
     | :---: |
-    | [Sistemas de Gestión de Información](https://jbeteta-ies.github.io/IFCT0211/){.md-button .md-button--primary} |
+    | [Sistemas de Gestión de Información](https://jbeteta-ies.github.io/IFCD0211/){.md-button .md-button--primary} |
 
 </div>
-
-<<<<<<< HEAD
-=======
-!!! note "Enlace"
-    [Sistemas de Gestión de Información](https://jbeteta-ies.github.io/IFCD0211){.md-button .md-button--primary}
->>>>>>> 2fe80a49d1845233fceff1e59165629e29ea5709
-
 
