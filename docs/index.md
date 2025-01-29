@@ -7,9 +7,7 @@ hide:
 # Página personal
 
 
-## Datos personales
-
-!!! note info "Información..."
+!!! note info "Datos personales"
 
     | |  |  |  |
     | :--: | :---: | :--- | --- |
