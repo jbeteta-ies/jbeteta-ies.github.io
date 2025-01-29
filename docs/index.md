@@ -24,7 +24,12 @@ hide:
 
 <div class="grid" markdown>
 
+<<<<<<< HEAD
 !!! info
+=======
+!!! note "Enlace"
+    [Bases de Datos](https://jbeteta-ies.github.io/BBDD){.md-button .md-button--primary}
+>>>>>>> 2fe80a49d1845233fceff1e59165629e29ea5709
 
     | | | |
     | :---: | :--- | --- |
@@ -61,5 +66,10 @@ hide:
 
 </div>
 
+<<<<<<< HEAD
+=======
+!!! note "Enlace"
+    [Sistemas de Gestión de Información](https://jbeteta-ies.github.io/IFCD0211){.md-button .md-button--primary}
+>>>>>>> 2fe80a49d1845233fceff1e59165629e29ea5709
 
 
