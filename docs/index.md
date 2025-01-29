@@ -26,7 +26,7 @@
 | **Duración** | 160 horas | |
 
 !!! note "Enlace"
-    [Bases de Datos](jbeteta-ies.github.io/BBDD){.md-button .md-button--primary}
+    [Bases de Datos](https://jbeteta-ies.github.io/BBDD){.md-button .md-button--primary}
 
 ### Sistemas de Gestión de Información
 
@@ -38,6 +38,6 @@
 | **Duración** | 630 horas | |
 
 !!! note "Enlace"
-    [Bases de Datos](jbeteta-ies.github.io/IFCT0211){.md-button .md-button--primary}
+    [Sistemas de Gestión de Información](https://jbeteta-ies.github.io/IFCD0211){.md-button .md-button--primary}
 
 
