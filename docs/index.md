@@ -18,13 +18,10 @@ hide:
 
 ## Proyectos
 
-### **Bases de datos**
 
 <div class="grid" markdown>
 
-!!! info
-!!! note "Enlace"
-    [Bases de Datos](https://jbeteta-ies.github.io/BBDD){.md-button .md-button--primary}
+!!! abstract "Bases de Datos"
 
     | | | |
     | :---: | :--- | --- |
@@ -35,29 +32,29 @@ hide:
     | **Código** | 0484 | |
     | **Duración** | 160 horas | |
 
-!!! info "Enlace al proyecto"
-    | |
-    | :---: |
-    | [Bases de Datos](https://jbeteta-ies.github.io/BBDD/){.md-button .md-button--primary} |
+    !!! note "Enlace al proyecto"
+        | |
+        | :---: |
+        | [Bases de Datos](https://jbeteta-ies.github.io/BBDD/){.md-button .md-button--primary} |
 
-</div>
-
-### **Sistemas de Gestión de Información**
-
-<div class="grid" markdown>
-
-!!! info
+!!! abstract "Sistemas de Gestión de Información"
     | | | |
     | :---: | :--- | --- |
     | **Familia profesional** | Informática y comunicaciones | |
     | **Àrea profesional** | Desarrollo | |
+    | **Currículo** | [BOE-A-2013-9707](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-9707) | |
     | **Código** | IFCT0211 | |
+    | **Modulos** | MF0966_3, MF0967_3, MF0968_3, MP0459| |
     | **Duración** | 630 horas | |
 
-!!! info "Enlace al proyecto"
-    | |
-    | :---: |
-    | [Sistemas de Gestión de Información](https://jbeteta-ies.github.io/IFCD0211/){.md-button .md-button--primary} |
+    !!! note "Enlace al proyecto"
+        | |
+        | :---: |
+        | [Sistemas de Gestión de Información](https://jbeteta-ies.github.io/IFCD0211/){.md-button .md-button--primary} |
+
 
 </div>
+
+
+
 
