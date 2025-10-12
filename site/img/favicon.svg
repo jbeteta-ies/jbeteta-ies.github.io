@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Fondo circular teal -->
+  <circle cx="50" cy="50" r="48" fill="#00897b"/>
+
+  <!-- Cuaderno / hoja -->
+  <rect x="25" y="22" width="50" height="56" rx="6" ry="6" fill="white"/>
+
+  <!-- Línea superior -->
+  <line x1="33" y1="32" x2="67" y2="32" stroke="#00897b" stroke-width="3"/>
+
+  <!-- Línea central con los tags -->
+  <text x="50%" y="52%" text-anchor="middle" font-size="16" font-family="monospace" fill="#00897b" dominant-baseline="middle">
+    &lt;../&gt;
+  </text>
+
+  <!-- Línea inferior (más abajo para equilibrio visual) -->
+  <line x1="33" y1="66" x2="67" y2="66" stroke="#00897b" stroke-width="3"/>
+</svg>
