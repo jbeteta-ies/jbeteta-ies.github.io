@@ -1,9 +1,20 @@
-site_name: Javier Beteta - Landing Page
-site_url: https://jbeteta-ies.github.io/jbeteta-ies.githib.io/
+site_name: Javier Beteta - Personal Site
+copyright: '2025, Javier Beteta'
+site_url: https://jbeteta-ies.github.io/jbeteta-ies.github.io/
 theme:
   name: material
+  favicon: img/favicon.svg
+  logo: img/favicon.svg
+  palette:
+    primary: teal        # 👈 color de la barra superior
+    accent: red  
   features:
     - content.code.copy
+
+extra_css:
+  - css/extra.css
+
+plugins: []
 
 markdown_extensions:
   - admonition

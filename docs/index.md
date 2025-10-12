@@ -1,8 +1,11 @@
 ---
+title: Landing
+comments: true
 hide:
   - navigation
   - toc
 ---
+
 
 # Javier Beteta Lluna
 
@@ -82,45 +85,56 @@ hide:
 
     </div>
 
-
-## Proyectos
-
-
-<div class="grid" markdown>
-
-!!! abstract "Bases de Datos"
-
-    | | | |
-    | :---: | :--- | --- |
-    | **Familia profesional** | Informática y comunicaciones | |
-    | **Ciclo** | Desarrollo de aplicaciones web | |
-    | **Currículo** | [Orden 60/2023](https://dogv.gva.es/es/eli/es-vc/o/2012/09/25/60/dof/vci-spa/pdf) | |
-    | **Módulo** | Bases de datos | |
-    | **Código** | 0484 | |
-    | **Duración** | 160 horas | |
-
-    !!! note "Enlace al proyecto"
-        | |
-        | :---: |
-        | [Bases de Datos](https://jbeteta-ies.github.io/BBDD/){.md-button .md-button--primary} |
-
-!!! abstract "Sistemas de Gestión de Información"
-    | | | |
-    | :---: | :--- | --- |
-    | **Familia profesional** | Informática y comunicaciones | |
-    | **Àrea profesional** | Desarrollo | |
-    | **Currículo** | [BOE-A-2013-9707](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-9707) | |
-    | **Código** | IFCT0211 | |
-    | **Modulos** | MF0966_3, MF0967_3, MF0968_3, MP0459| |
-    | **Duración** | 630 horas | |
-
-    !!! note "Enlace al proyecto"
-        | |
-        | :---: |
-        | [Sistemas de Gestión de Información](https://jbeteta-ies.github.io/IFCD0211/){.md-button .md-button--primary} |
+## Proyectos 2025-2026
 
 
-</div>
+=== ":fontawesome-solid-user-graduate:{ .lg } __Especialidades__"
+    <div class="grid" markdown>
+
+    !!! abstract "" 
+
+        <div class="grid cards" markdown>
+
+        -   :fontawesome-brands-python:{ .lg .middle } __Python + Django__
+
+            ---
+            :fontawesome-solid-circle-info:{ .lg .middle } Curso práctico donde aprenderás a crear aplicaciones web con Django y desplegarlas en producción.
+
+            ---
+            
+            :fontawesome-solid-clock:{ .lg .middle } __Duración:__ 40 horas 
+
+            [Comenzar](https://jbeteta-ies.github.io/IFCD095PO/){.md-button .md-button--primary} 
+
+
+        -   :fontawesome-brands-laravel:{ .lg .middle } __Intro Laravel (12)__
+
+            ---
+            :fontawesome-solid-circle-info:{ .lg .middle } Aprende los fundamentos de Laravel: rutas, controladores, vistas y migraciones.
+
+            ---
+
+            :fontawesome-solid-clock:{ .lg .middle } __Duración:__ 40 horas 
+            
+            [Comenzar](https://jbeteta-ies.github.io/2DAW_DWES/){.md-button .md-button--primary} 
+
+        </div>
+
+    </div>
+
+
+=== ":fontawesome-solid-medal:{ .lg } __Certificados__"
+
+    <div class="grid" markdown>
+
+    !!! abstract ""
+
+
+
+    </div>
+
+
+
 
 
 

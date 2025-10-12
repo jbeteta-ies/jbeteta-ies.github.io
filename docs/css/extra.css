@@ -1,0 +1,11 @@
+/* Fuerza las tarjetas de MkDocs Material a tener ancho fijo */
+.md-typeset .grid.cards > ul {
+  grid-template-columns: repeat(auto-fit, minmax(150px, 150px)) !important;
+  justify-content: center;
+  max-width: 300px;
+}
+
+/* Opcional: controla la altura mínima para que sean todas iguales */
+.md-typeset .grid.cards > ul > li {
+  min-height: 150px;
+}
