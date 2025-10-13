@@ -116,7 +116,7 @@ hide:
 
             :fontawesome-solid-clock:{ .lg .middle } __Duración:__ 40 horas 
             
-            [Comenzar](https://jbeteta-ies.github.io/2DAW_DWES/){.md-button .md-button--primary} 
+            [Comenzar](https://jbeteta-ies.github.io/2025_Laravel_32/){.md-button .md-button--primary} 
 
         </div>
 
