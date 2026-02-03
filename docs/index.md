@@ -107,7 +107,7 @@ hide:
             [Comenzar](https://jbeteta-ies.github.io/IFCD095PO/){.md-button .md-button--primary} 
 
 
-        -   :fontawesome-brands-laravel:{ .lg .middle } __Intro Laravel (12)__
+        -   :fontawesome-brands-laravel:{ .lg .middle } __Intro Laravel (32)__
 
             ---
             :fontawesome-solid-circle-info:{ .lg .middle } Aprende los fundamentos de Laravel: rutas, controladores, vistas y migraciones.
@@ -118,18 +118,61 @@ hide:
             
             [Comenzar](https://jbeteta-ies.github.io/2025_Laravel_32/){.md-button .md-button--primary} 
 
+        -   :fontawesome-brands-google:{ .lg .middle } __Intro Google Apps__
+
+            ---
+            :fontawesome-solid-circle-info:{ .lg .middle } Google gmail, drive, docs, sheets, slides, forms, sites, calendar, meet...
+
+            ---
+
+            :fontawesome-solid-clock:{ .lg .middle } __Duración:__ 40 horas 
+            
+            [Comenzar](https://jbeteta-ies.github.io/goapps/){.md-button .md-button--primary} 
+
+         -   :fontawesome-solid-bullseye:{ .lg .middle } __CTRD0012__ Redes Sociales e Inserción Laboral
+
+            ---
+            - :fontawesome-brands-linkedin:{ .lg .middle } LinkedIn
+            - :fontawesome-brands-facebook:{ .lg .middle } Facebook
+            - :fontawesome-brands-x-twitter:{ .lg .middle } Twitter
+            - Seguidad en la navegación, Identidad digital, ...
+
+            ---
+
+            :fontawesome-solid-clock:{ .lg .middle } __Duración:__ 40 horas 
+            
+            [Comenzar](https://jbeteta-ies.github.io/CTRD0012/){.md-button .md-button--primary} 
+
         </div>
 
     </div>
 
 
 === ":fontawesome-solid-medal:{ .lg } __Certificados__"
-
     <div class="grid" markdown>
 
     !!! abstract ""
+         <div class="grid cards" markdown>
 
+        -   :fontawesome-solid-server:{ .lg .middle } __IFCD0211 - Sistemas de Gestión de Información__
 
+            ---
+            
+            :fontawesome-solid-circle-info:{ .lg .middle } Aprende a diseñar e implementar sistemas de gestión de información utilizando tecnologías web.  
+            
+            ---
+            :fontawesome-solid-desktop:{ .lg .middle } Frontend clásico: :fontawesome-brands-html5: `HTML5` + :fontawesome-brands-css3: `CSS3` + :fontawesome-brands-js: `JavaScript`
+
+            :fontawesome-solid-server:{ .lg .middle } Backend: :fontawesome-brands-php: `PHP` + :fontawesome-brands-node: `Node.js` + :fontawesome-solid-database: `SQL`
+
+            :fontawesome-solid-wrench:{ .lg .middle } Frameworks:   :fontawesome-brands-laravel: `Laravel` + :fontawesome-brands-vuejs: `Vue.js` + :fontawesome-brands-bootstrap: `Bootstrap`
+
+            ---
+            :fontawesome-solid-clock:{ .lg .middle } __Duración:__ 660 horas
+
+            [Comenzar](https://jbeteta-ies.github.io/IFCD0211v2/){.md-button .md-button--primary}
+
+        </div>
 
     </div>
 
