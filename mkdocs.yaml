@@ -1,6 +1,6 @@
 site_name: Javier Beteta - Personal Site
 copyright: '2025, Javier Beteta'
-site_url: https://jbeteta-ies.github.io/jbeteta-ies.github.io/
+site_url: https://jbeteta-ies.github.io/
 theme:
   name: material
   favicon: img/favicon.svg

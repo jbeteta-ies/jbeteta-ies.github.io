@@ -1,44 +1,36 @@
-# Página de aterrizaje
+# Landing – Apuntes DAW
 
-## Datos personales
+Página de acceso a los apuntes y documentación de los módulos del ciclo de Desarrollo de Aplicaciones Web del IES El Just.
 
-!!! note info "Información..."
-    Información personal y de contacto
+El sitio está construido con [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) y se despliega automáticamente en [GitHub Pages](https://jbeteta-ies.github.io/).
 
-    | - | - | - |
-    | :---: | :--- | --- |
-    | **Nombre** | Javier Beteta LLuna| |
-    | **Correo** | jbeteta@ieseljust.com | |
-    | **Centro** | [IES El Just](https://portal.edu.gva.es/iesjaumeeljust/) | Taverness de la Valldigna |
-    | **Especialidad** | Informática | |
+## Prerrequisitos
 
-## Proyectos
+- Python 3.9+
 
-### Bases de datos
+## Inicialización tras clonar
 
-| | | |
-| :---: | :--- | --- |
-| **Familia profesional** | Informática y comunicaciones | |
-| **Ciclo** | Desarrollo de aplicaciones web | |
-| **Currículo** | [Orden 60/2023](https://dogv.gva.es/es/eli/es-vc/o/2012/09/25/60/dof/vci-spa/pdf) | |
-| **Módulo** | Bases de datos | |
-| **Código** | 0484 | |
-| **Duración** | 160 horas | |
+```bash
+# Clonar el repositorio
+git clone https://github.com/jbeteta-ies/jbeteta-ies.github.io.git
+cd jbeteta-ies.github.io
 
-!!! note "Enlace"
-    [Bases de Datos](jbeteta-ies.github.io/BBDD){.md-button .md-button--primary}
+# Crear el entorno virtual
+python3 -m venv venv
+source venv/bin/activate   # Linux/macOS
+# venv\Scripts\activate    # Windows
 
-### Sistemas de Gestión de Información
+# Instalar dependencias
+pip install -r requirements.txt
 
-| | | |
-| :---: | :--- | --- |
-| **Familia profesional** | Informática y comunicaciones | |
-| **Àrea profesional** | Desarrollo | |
-| **Código** | IFCT0211 | |
-| **Duración** | 630 horas | |
+# Servir en local (http://127.0.0.1:8000)
+mkdocs serve
+```
 
-!!! note "Enlace"
-    [Bases de Datos](jbeteta-ies.github.io/IFCT0211){.md-button .md-button--primary}
+## Despliegue
 
+```bash
+mkdocs gh-deploy
+```
 
-
+Genera la carpeta `site/` y la publica en la rama `gh-pages`, que es la que sirve GitHub Pages.
