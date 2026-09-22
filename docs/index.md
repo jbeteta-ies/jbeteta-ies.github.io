@@ -79,7 +79,7 @@ hide:
             
             :fontawesome-solid-clock:{ .lg .middle } __Duración:__ 60 horas 
             
-            [Comenzar](https://jbeteta-ies.github.io/asgbd/){.md-button .md-button--primary} 
+            [Comenzar](https://jbeteta-ies.github.io/2ASIX_ASGBD/){.md-button .md-button--primary} 
 
         </div>
 
